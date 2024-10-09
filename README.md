@@ -9,3 +9,6 @@
 -📫 How to reach me -> LinkedIn: 
 -😎 Pronouns: She/Her
 -☀️ Fun fact: I love boba and karaoke!
+
+  <img align="right" alt="Coding" width="400" src="https://tenor.com/en-CA/view/boba-tea-gif-25272626![image](https://github.com/user-attachments/assets/a4633c8c-b3ca-4269-8df5-c7f8e7beb6e6)
+">
