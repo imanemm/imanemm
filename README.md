@@ -11,7 +11,9 @@
 -😎 Pronouns: She/Her
 -☀️ Fun fact: I love boba and karaoke!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanemm)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanemm&hide=contribs,prs)
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/5YhM7FikN75SXkbInU/giphy.gif?cid=790b7611yy2h5vffl6xlg9caufjwyqyoqo3mgitqxbpf33g6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<h3 align="left">My Github Stats</h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanemm&show_icons=true&theme=gotham)
+<h3 align="left">My Github trophies</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=imanemm&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
