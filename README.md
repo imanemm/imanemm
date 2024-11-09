@@ -5,7 +5,7 @@
 <pre>
     💼 BSC @ uOttawa • Software engineering
     💻 Learning • Python • HTML • CSS • JavaScript
-    📖 Currently working on : • Website • Text-based game
+    📖 Currently working on : • Study Hub • Quiz Game
     🎮 Music • Games • Kdrama • Code • Karaoke • Boba
     😎 Pronouns: She/Her
 </pre>
