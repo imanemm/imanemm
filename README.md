@@ -4,8 +4,8 @@
 <br><br>
 <pre>
     💼 BSC @ uOttawa • Software engineering
-    💻 Learning • Python • HTML • CSS • JavaScript
-    📖 Currently working on : • Study Hub • Quiz Game
+    💻 Learning • Python • Java • JavaScript • React
+    📖 Currently working on : • Calculator • Quiz Game
     🎮 Music • Games • Kdrama • Code • Karaoke • Boba
     😎 Pronouns: She/Her
 </pre>
