@@ -4,8 +4,8 @@
 <br><br>
 <pre>
     💼 BSC @ uOttawa • Software engineering
-    💻 Learning • Python • Java • JavaScript • React
-    📖 Currently working on : • Calculator • Quiz Game
+    💻 Learning • C++ • Java • JavaScript • React
+    📖 Currently working on : • Online Album Store • FemHealth's Website
     🎮 Music • Games • Kdrama • Code • Karaoke • Boba
     😎 Pronouns: She/Her
 </pre>
@@ -15,6 +15,7 @@
     <h3>Tech Stack</h3>
     <p>
         <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python">
+        <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java" alt="Java">
         <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5" alt="HTML">
         <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3" alt="CSS">
         <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript">
