@@ -1,42 +1,41 @@
-![banner](https://github.com/user-attachments/assets/c72b8aa0-3555-4823-a511-2f403241c89b)
-
-<div align="center">
-<br><br>
-<pre>
-    💼 BSC @ uOttawa • Software engineering
-    💻 Learning • C++ • Java • JavaScript • React
-    📖 Currently working on : • Online Album Store • FemHealth's Website
-    🎮 Music • Games • Kdrama • Code • Karaoke • Boba
-    😎 Pronouns: She/Her
-</pre>
-<br><br>
+<div id="banner" align="center">
+    <img src="./banner.png" alt="Banner" width="100%" height="auto">
 </div>
-<div align="center">
-    <h3>Tech Stack</h3>
+<div id="profile-bio" align="center">
+        <pre>
+            💼 BSc in Software Engineering @ uOttawa  
+            💻 Currently learning: C++, Java, JavaScript, React
+            📖 Working on: Online Album Store • FemHealth Website
+            🎮 Interests: Music • Games • K-Dramas • Coding • Karaoke • Boba  
+            👾 Pronouns: She/Her
+        </pre>
+</div>
+<div id="tech-stack" align="center">
+    <h3>🛠️ Tech Stack</h3>
     <p>
-        <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python">
-        <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java" alt="Java">
-        <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5" alt="HTML">
-        <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3" alt="CSS">
-        <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     </p>
 </div>
-
-<div align="center">
-    <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/5YhM7FikN75SXkbInU/giphy.gif?cid=790b7611yy2h5vffl6xlg9caufjwyqyoqo3mgitqxbpf33g6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<div id="github-stats" align="center">
+   <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=imanemm&show_icons=true&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=imanemm&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" width="70%" height="auto"/>
+    </picture> 
 </div>
-
-<br><br>
-<div align="center">
-    <h3> My Github Stats</h3>
+<div id="snake-contributions" align="center">
+    <img src="https://github.com/imanemm/imanemm/blob/output/github-contribution-grid-snake.gif" width="100%" height="auto"/>
 </div>
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanemm&show_icons=true&theme=gotham)
- 
-<div align="center">  
-    <h3>My Github trophies</h3>
-</div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=imanemm&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
