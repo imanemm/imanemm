@@ -4,7 +4,7 @@
 <div id="profile-bio" align="center">
         <pre>
             💼 BSc in Software Engineering @ uOttawa  
-            💻 Currently learning: C++, Java, JavaScript, React
+            💻 Currently learning: C#, Java, React
             📖 Working on: Online Album Store • FemHealth Website
             🎮 Interests: Music • Games • K-Dramas • Coding • Karaoke • Boba  
             👾 Pronouns: She/Her
