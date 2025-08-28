@@ -5,7 +5,7 @@
         <pre>
             💼 BSc in Software Engineering @ uOttawa  
             💻 Currently learning: C#, React
-            📖 Working on: Online Album Store • FemHealth Website
+            📖 Working on: CSP Le Challenge • FemHealth Website
             🎮 Interests: Music • Games • K-Dramas • Coding • Karaoke • Boba  
             👾 Pronouns: She/Her
         </pre>
