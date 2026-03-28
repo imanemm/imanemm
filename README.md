@@ -8,8 +8,6 @@ Software Engineering Student @ University of Ottawa
 I enjoy building creative projects that combine **technology, design, and music**
 
 ---
-
-## Currently
 ```
 BSc Software Engineering @ uOttawa
 Learning: Next.js • Full-Stack Development
