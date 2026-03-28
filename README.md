@@ -2,25 +2,25 @@
   <img src="./banner.png" width="100%" />
 </p>
 
-# 👾 Hi, I'm Imane
+# Hi, I'm Imane
 
-💻 Software Engineering Student @ University of Ottawa  
-🎨 I enjoy building creative projects that combine **technology, design, and music**
+Software Engineering Student @ University of Ottawa  
+I enjoy building creative projects that combine **technology, design, and music**
 
 ---
 
-## 🌱 Currently
+## Currently
 ```
-💼 BSc Software Engineering @ uOttawa
-💻 Learning: Next.js • Full-Stack Development
-📖 Building: MuseJournal • Pomodoro Timer
-🎮 Interests: Game Dev • Music • Pixel Art • K-Dramas • Karaoke • Boba
-🌍 Languages: English • French • Italian (learning) • Korean (learning)
-👾 Pronouns: She / Her
+BSc Software Engineering @ uOttawa
+Learning: Next.js • Full-Stack Development
+Building: MuseJournal • Pomodoro Timer
+Interests: Game Dev • Music • Pixel Art • K-Dramas • Karaoke • Boba
+Languages: English • French • Italian (learning) • Korean (learning)
+Pronouns: She / Her
 ```
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:** Java • Python • HTML • CSS • JavaScript • SQL • PowerShell
 
@@ -30,4 +30,4 @@
 
 ---
 
-⭐ Built with curiosity, creativity, and lots of late-night coding.
+Built with curiosity, creativity, and lots of late-night coding.
