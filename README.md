@@ -18,8 +18,6 @@ Pronouns: She / Her
 ```
 ---
 
-## Tech Stack
-
 **Languages:** Java • Python • HTML • CSS • JavaScript • SQL • PowerShell
 
 **Frameworks:** React • Tailwind CSS • Next.js • SpringBoot
